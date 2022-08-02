@@ -1,0 +1,59 @@
+h1{
+    color: rgb(27, 27, 161);
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    
+    
+}
+
+.div1{
+    background-color: gold;
+    border-radius: 5px;
+    margin: 15px 10px;
+    padding: 10px;
+
+ 
+}
+.div2{
+    background-color: cyan;
+    border: 15px solid rgb(4, 63, 97);
+    border-radius: 10px;
+    padding: 10px 5px 10px 15px;
+
+}
+.Aut{
+    color: brown;
+}
+.sundor{
+    color: blueviolet;
+}
+.mar{
+    color: brown;
+
+}
+.px{
+    color: rgb(21, 21, 167);
+
+}
+.out{
+    color: darkgreen;
+
+}
+.blog-title{
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.div1 p{
+    text-align: justify;
+}
+.div2 p{
+    text-align: justify;
+}
+
+h3{
+    display: inline;
+}
